@@ -1,0 +1,14 @@
+2023-02-07 00:30:31 - Dataset: sms
+2023-02-07 00:30:31 - using label functions written by human
+2023-02-07 00:30:31 - loading data from ../datasets/sms/train.json
+2023-02-07 00:30:31 - using label functions written by human
+2023-02-07 00:30:31 - loading data from ../datasets/sms/valid.json
+2023-02-07 00:30:31 - using label functions written by human
+2023-02-07 00:30:31 - loading data from ../datasets/sms/test.json
+2023-02-07 00:30:31 - loading features from ../datasets/sms/train_bert.pkl
+2023-02-07 00:30:31 - loading features from ../datasets/sms/valid_bert.pkl
+2023-02-07 00:30:31 - loading features from ../datasets/sms/test_bert.pkl
+2023-02-07 00:30:31 - weighted majority voter test acc: 0.632
+2023-02-07 00:30:31 - weighted majority voter test f1: 0.2397
+2023-02-07 00:30:31 - label model test cov: 0.4052
+2023-02-07 00:30:31 - Not going to run end model

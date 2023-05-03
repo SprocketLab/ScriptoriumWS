@@ -1,0 +1,17 @@
+2023-02-07 16:06:40 - Dataset: imdb
+2023-02-07 16:06:40 - using label functions written by human
+2023-02-07 16:06:40 - loading data from ../datasets/imdb/train.json
+2023-02-07 16:06:40 - using label functions written by human
+2023-02-07 16:06:40 - loading data from ../datasets/imdb/valid.json
+2023-02-07 16:06:40 - using label functions written by human
+2023-02-07 16:06:40 - loading data from ../datasets/imdb/test.json
+2023-02-07 16:06:40 - loading features from ../datasets/imdb/train_bert.pkl
+2023-02-07 16:06:40 - loading features from ../datasets/imdb/valid_bert.pkl
+2023-02-07 16:06:40 - loading features from ../datasets/imdb/test_bert.pkl
+2023-02-07 16:06:41 - # of uncovered training datapoint: 2485
+2023-02-07 16:06:41 - # of covered training datapoint: 17515
+2023-02-07 16:06:41 - label model coverage: 0.8758
+2023-02-07 16:06:54 - End Model (for humanLF only) test acc: 0.7544
+2023-02-07 16:06:54 - End Model (for humanLF only) test f1: 0.7791
+2023-02-07 16:07:11 - End Model (integration) test acc: 0.7584
+2023-02-07 16:07:11 - End Model (integration) test f1: 0.781

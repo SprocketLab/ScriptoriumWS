@@ -1,0 +1,20 @@
+2023-02-10 06:24:11 - Dataset: imdb
+2023-02-10 06:24:11 - using label functions written by human
+2023-02-10 06:24:11 - loading data from ../datasets/imdb/train.json
+2023-02-10 06:24:11 - using label functions written by human
+2023-02-10 06:24:11 - loading data from ../datasets/imdb/valid.json
+2023-02-10 06:24:11 - using label functions written by human
+2023-02-10 06:24:11 - loading data from ../datasets/imdb/test.json
+2023-02-10 06:24:11 - loading features from ../datasets/imdb/train_bert.pkl
+2023-02-10 06:24:11 - loading features from ../datasets/imdb/valid_bert.pkl
+2023-02-10 06:24:11 - loading features from ../datasets/imdb/test_bert.pkl
+2023-02-10 06:24:13 - # of uncovered training datapoint: 2485
+2023-02-10 06:24:13 - # of covered training datapoint: 17515
+2023-02-10 06:24:13 - label model coverage: 0.8758
+2023-02-10 06:24:49 - End Model (for humanLF only) test acc: 0.756
+2023-02-10 06:24:49 - End Model (for humanLF only) test f1: 0.7831
+2023-02-10 06:24:49 - End Model (for humanLF only) cov: 0.8758
+2023-02-10 06:24:51 - Load imdb human_heuristic 6 codex LFs
+2023-02-10 06:25:50 - End Model (integration) test acc: 0.7568
+2023-02-10 06:25:50 - End Model (integration) test f1: 0.7842
+2023-02-10 06:25:50 - End Model (integration) cov: 1.0

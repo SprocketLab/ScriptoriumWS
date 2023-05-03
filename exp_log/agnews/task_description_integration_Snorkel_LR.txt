@@ -1,0 +1,16 @@
+2023-02-10 08:04:40 - Dataset: agnews
+2023-02-10 08:04:40 - using label functions written by human
+2023-02-10 08:04:40 - loading data from ../datasets/agnews/train.json
+2023-02-10 08:04:40 - using label functions written by human
+2023-02-10 08:04:40 - loading data from ../datasets/agnews/valid.json
+2023-02-10 08:04:40 - using label functions written by human
+2023-02-10 08:04:40 - loading data from ../datasets/agnews/test.json
+2023-02-10 08:04:40 - loading features from ../datasets/agnews/train_bert.pkl
+2023-02-10 08:04:41 - loading features from ../datasets/agnews/valid_bert.pkl
+2023-02-10 08:04:41 - loading features from ../datasets/agnews/test_bert.pkl
+2023-02-10 08:04:41 - # of uncovered training datapoint: 29686
+2023-02-10 08:04:42 - # of covered training datapoint: 66314
+2023-02-10 08:04:42 - label model coverage: 0.6908
+2023-02-10 08:05:03 - Load agnews task_description 4 codex LFs
+2023-02-10 08:12:55 - End Model (integration) test acc: 0.6836
+2023-02-10 08:12:55 - End Model (integration) cov: 1.0

@@ -1,0 +1,20 @@
+2023-02-10 07:46:18 - Dataset: yelp
+2023-02-10 07:46:18 - using label functions written by human
+2023-02-10 07:46:18 - loading data from ../datasets/yelp/train.json
+2023-02-10 07:46:19 - using label functions written by human
+2023-02-10 07:46:19 - loading data from ../datasets/yelp/valid.json
+2023-02-10 07:46:19 - using label functions written by human
+2023-02-10 07:46:19 - loading data from ../datasets/yelp/test.json
+2023-02-10 07:46:19 - loading features from ../datasets/yelp/train_bert.pkl
+2023-02-10 07:46:19 - loading features from ../datasets/yelp/valid_bert.pkl
+2023-02-10 07:46:19 - loading features from ../datasets/yelp/test_bert.pkl
+2023-02-10 07:46:28 - # of uncovered training datapoint: 5235
+2023-02-10 07:46:28 - # of covered training datapoint: 25165
+2023-02-10 07:46:28 - label model coverage: 0.8278
+2023-02-10 07:47:12 - End Model (for humanLF only) test acc: 0.8071
+2023-02-10 07:47:12 - End Model (for humanLF only) test f1: 0.8337
+2023-02-10 07:47:12 - End Model (for humanLF only) cov: 0.8278
+2023-02-10 07:48:28 - Load yelp human_label_function 5 codex LFs
+2023-02-10 07:49:34 - End Model (integration) test acc: 0.8076
+2023-02-10 07:49:34 - End Model (integration) test f1: 0.835
+2023-02-10 07:49:34 - End Model (integration) cov: 1.0

@@ -1,0 +1,14 @@
+2023-02-08 05:42:19 - Dataset: spouse
+2023-02-08 05:42:19 - using label functions written by human
+2023-02-08 05:42:19 - loading data from ../datasets/spouse/train.json
+2023-02-08 05:42:19 - using label functions written by human
+2023-02-08 05:42:19 - loading data from ../datasets/spouse/valid.json
+2023-02-08 05:42:19 - using label functions written by human
+2023-02-08 05:42:19 - loading data from ../datasets/spouse/test.json
+2023-02-08 05:42:19 - loading features from ../datasets/spouse/train_bert.pkl
+2023-02-08 05:42:19 - loading features from ../datasets/spouse/valid_bert.pkl
+2023-02-08 05:42:19 - loading features from ../datasets/spouse/test_bert.pkl
+2023-02-08 05:42:29 - Dawid-Skene label model test acc: 0.1785
+2023-02-08 05:42:29 - Dawid-Skene label model test f1: 0.1553
+2023-02-08 05:42:29 - label model test cov: 0.2577
+2023-02-08 05:42:29 - Not going to run end model

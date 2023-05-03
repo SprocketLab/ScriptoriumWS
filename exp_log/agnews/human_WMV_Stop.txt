@@ -1,0 +1,14 @@
+2023-02-09 16:42:16 - Dataset: agnews
+2023-02-09 16:42:16 - using label functions written by human
+2023-02-09 16:42:16 - loading data from ../datasets/agnews/train.json
+2023-02-09 16:42:16 - using label functions written by human
+2023-02-09 16:42:16 - loading data from ../datasets/agnews/valid.json
+2023-02-09 16:42:16 - using label functions written by human
+2023-02-09 16:42:16 - loading data from ../datasets/agnews/test.json
+2023-02-09 16:42:16 - loading features from ../datasets/agnews/train_bert.pkl
+2023-02-09 16:42:16 - loading features from ../datasets/agnews/valid_bert.pkl
+2023-02-09 16:42:16 - loading features from ../datasets/agnews/test_bert.pkl
+2023-02-09 16:42:17 - weighted majority voter test acc: 0.64
+2023-02-09 16:42:17 - weighted majority voter test f1: 0.0
+2023-02-09 16:42:17 - label model test cov: 0.6908
+2023-02-09 16:42:18 - Not going to run end model

@@ -1,0 +1,20 @@
+2023-02-10 07:34:19 - Dataset: spouse
+2023-02-10 07:34:19 - using label functions written by human
+2023-02-10 07:34:19 - loading data from ../datasets/spouse/train.json
+2023-02-10 07:34:20 - using label functions written by human
+2023-02-10 07:34:20 - loading data from ../datasets/spouse/valid.json
+2023-02-10 07:34:20 - using label functions written by human
+2023-02-10 07:34:20 - loading data from ../datasets/spouse/test.json
+2023-02-10 07:34:20 - loading features from ../datasets/spouse/train_bert.pkl
+2023-02-10 07:34:20 - loading features from ../datasets/spouse/valid_bert.pkl
+2023-02-10 07:34:20 - loading features from ../datasets/spouse/test_bert.pkl
+2023-02-10 07:34:51 - # of uncovered training datapoint: 16520
+2023-02-10 07:34:52 - # of covered training datapoint: 5734
+2023-02-10 07:34:52 - label model coverage: 0.2577
+2023-02-10 07:35:17 - End Model (for humanLF only) test acc: 0.3284
+2023-02-10 07:35:17 - End Model (for humanLF only) test f1: 0.1656
+2023-02-10 07:35:17 - End Model (for humanLF only) cov: 0.2577
+2023-02-10 07:35:42 - Load spouse human_heuristic 8 codex LFs
+2023-02-10 07:37:24 - End Model (integration) test acc: 0.7912
+2023-02-10 07:37:24 - End Model (integration) test f1: 0.2985
+2023-02-10 07:37:24 - End Model (integration) cov: 1.0

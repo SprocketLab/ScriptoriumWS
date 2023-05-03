@@ -1,0 +1,14 @@
+2023-02-09 16:42:46 - Dataset: agnews
+2023-02-09 16:42:46 - using label functions written by human
+2023-02-09 16:42:46 - loading data from ../datasets/agnews/train.json
+2023-02-09 16:42:46 - using label functions written by human
+2023-02-09 16:42:46 - loading data from ../datasets/agnews/valid.json
+2023-02-09 16:42:46 - using label functions written by human
+2023-02-09 16:42:46 - loading data from ../datasets/agnews/test.json
+2023-02-09 16:42:46 - loading features from ../datasets/agnews/train_bert.pkl
+2023-02-09 16:42:47 - loading features from ../datasets/agnews/valid_bert.pkl
+2023-02-09 16:42:47 - loading features from ../datasets/agnews/test_bert.pkl
+2023-02-09 16:42:57 - Dawid-Skene label model test acc: 0.6276
+2023-02-09 16:42:57 - Dawid-Skene label model test f1: 0.0
+2023-02-09 16:42:57 - label model test cov: 0.6908
+2023-02-09 16:42:58 - Not going to run end model

@@ -1,0 +1,20 @@
+2023-02-10 06:03:18 - Dataset: sms
+2023-02-10 06:03:18 - using label functions written by human
+2023-02-10 06:03:18 - loading data from ../datasets/sms/train.json
+2023-02-10 06:03:19 - using label functions written by human
+2023-02-10 06:03:19 - loading data from ../datasets/sms/valid.json
+2023-02-10 06:03:19 - using label functions written by human
+2023-02-10 06:03:19 - loading data from ../datasets/sms/test.json
+2023-02-10 06:03:19 - loading features from ../datasets/sms/train_bert.pkl
+2023-02-10 06:03:19 - loading features from ../datasets/sms/valid_bert.pkl
+2023-02-10 06:03:19 - loading features from ../datasets/sms/test_bert.pkl
+2023-02-10 06:03:27 - # of uncovered training datapoint: 2719
+2023-02-10 06:03:27 - # of covered training datapoint: 1852
+2023-02-10 06:03:27 - label model coverage: 0.4052
+2023-02-10 06:03:36 - End Model (for humanLF only) test acc: 0.94
+2023-02-10 06:03:36 - End Model (for humanLF only) test f1: 0.75
+2023-02-10 06:03:36 - End Model (for humanLF only) cov: 0.4052
+2023-02-10 06:03:37 - Load sms task_description 8 codex LFs
+2023-02-10 06:03:55 - End Model (integration) test acc: 0.9
+2023-02-10 06:03:55 - End Model (integration) test f1: 0.5763
+2023-02-10 06:03:55 - End Model (integration) cov: 1.0

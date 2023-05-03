@@ -1,0 +1,14 @@
+2023-02-07 00:34:19 - Dataset: sms
+2023-02-07 00:34:19 - using label functions written by human
+2023-02-07 00:34:19 - loading data from ../datasets/sms/train.json
+2023-02-07 00:34:19 - using label functions written by human
+2023-02-07 00:34:19 - loading data from ../datasets/sms/valid.json
+2023-02-07 00:34:19 - using label functions written by human
+2023-02-07 00:34:19 - loading data from ../datasets/sms/test.json
+2023-02-07 00:34:19 - loading features from ../datasets/sms/train_bert.pkl
+2023-02-07 00:34:19 - loading features from ../datasets/sms/valid_bert.pkl
+2023-02-07 00:34:19 - loading features from ../datasets/sms/test_bert.pkl
+2023-02-07 00:34:20 - Snorkel label model test acc: 0.842
+2023-02-07 00:34:20 - Snorkel label model test f1: 0.0482
+2023-02-07 00:34:20 - label model test cov: 0.4052
+2023-02-07 00:34:20 - Not going to run end model

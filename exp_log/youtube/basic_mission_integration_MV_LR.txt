@@ -1,0 +1,20 @@
+2023-02-10 06:01:34 - Dataset: youtube
+2023-02-10 06:01:34 - using label functions written by human
+2023-02-10 06:01:34 - loading data from ../datasets/youtube/train.json
+2023-02-10 06:01:34 - using label functions written by human
+2023-02-10 06:01:34 - loading data from ../datasets/youtube/valid.json
+2023-02-10 06:01:34 - using label functions written by human
+2023-02-10 06:01:34 - loading data from ../datasets/youtube/test.json
+2023-02-10 06:01:34 - loading features from ../datasets/youtube/train_bert.pkl
+2023-02-10 06:01:34 - loading features from ../datasets/youtube/valid_bert.pkl
+2023-02-10 06:01:34 - loading features from ../datasets/youtube/test_bert.pkl
+2023-02-10 06:01:34 - # of uncovered training datapoint: 180
+2023-02-10 06:01:34 - # of covered training datapoint: 1506
+2023-02-10 06:01:34 - label model coverage: 0.8932
+2023-02-10 06:01:36 - End Model (for humanLF only) test acc: 0.808
+2023-02-10 06:01:36 - End Model (for humanLF only) test f1: 0.7757
+2023-02-10 06:01:36 - End Model (for humanLF only) cov: 0.8932
+2023-02-10 06:01:36 - Load youtube basic_mission 9 codex LFs
+2023-02-10 06:01:38 - End Model (integration) test acc: 0.788
+2023-02-10 06:01:38 - End Model (integration) test f1: 0.7535
+2023-02-10 06:01:38 - End Model (integration) cov: 1.0

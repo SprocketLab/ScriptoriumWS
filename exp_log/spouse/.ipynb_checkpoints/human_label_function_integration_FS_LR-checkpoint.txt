@@ -1,0 +1,16 @@
+2023-02-08 05:21:22 - Dataset: spouse
+2023-02-08 05:21:22 - using label functions written by human
+2023-02-08 05:21:22 - loading data from ../datasets/spouse/train.json
+2023-02-08 05:21:23 - using label functions written by human
+2023-02-08 05:21:23 - loading data from ../datasets/spouse/valid.json
+2023-02-08 05:21:23 - using label functions written by human
+2023-02-08 05:21:23 - loading data from ../datasets/spouse/test.json
+2023-02-08 05:21:23 - loading features from ../datasets/spouse/train_bert.pkl
+2023-02-08 05:21:23 - loading features from ../datasets/spouse/valid_bert.pkl
+2023-02-08 05:21:23 - loading features from ../datasets/spouse/test_bert.pkl
+2023-02-08 05:21:23 - # of uncovered training datapoint: 16520
+2023-02-08 05:21:23 - # of covered training datapoint: 5734
+2023-02-08 05:21:23 - label model coverage: 0.2577
+2023-02-08 05:21:32 - End Model (for humanLF only) test acc: 0.8949
+2023-02-08 05:21:32 - End Model (for humanLF only) test f1: 0.268
+2023-02-08 05:21:34 - Load spouse human_label_function 5 codex LFs

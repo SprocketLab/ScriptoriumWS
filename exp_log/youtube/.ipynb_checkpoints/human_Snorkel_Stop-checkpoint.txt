@@ -1,0 +1,14 @@
+2023-02-07 04:12:05 - Dataset: youtube
+2023-02-07 04:12:05 - using label functions written by human
+2023-02-07 04:12:05 - loading data from ../datasets/youtube/train.json
+2023-02-07 04:12:05 - using label functions written by human
+2023-02-07 04:12:05 - loading data from ../datasets/youtube/valid.json
+2023-02-07 04:12:05 - using label functions written by human
+2023-02-07 04:12:05 - loading data from ../datasets/youtube/test.json
+2023-02-07 04:12:05 - loading features from ../datasets/youtube/train_bert.pkl
+2023-02-07 04:12:05 - loading features from ../datasets/youtube/valid_bert.pkl
+2023-02-07 04:12:05 - loading features from ../datasets/youtube/test_bert.pkl
+2023-02-07 04:12:05 - Snorkel label model test acc: 0.852
+2023-02-07 04:12:05 - Snorkel label model test f1: 0.8398
+2023-02-07 04:12:05 - label model test cov: 0.8932
+2023-02-07 04:12:05 - Not going to run end model

@@ -1,0 +1,47 @@
+IMDB (Acc.),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,5,0,0.7584,0.7544,0.7544,0.754,0.756,0.75544,0.8758
+CodexLF (GP) + Wrench,5,6,0.7404,0.7368,0.7424,0.7672,0.7388,0.74512,1.0
+CodexLF (MD) + Wrench,5,5,0.7316,0.7564,0.7612,0.7668,0.7472,0.75264,1.0
+CodexLF (HH) + Wrench,5,6,0.7628,0.7692,0.7712,0.7848,0.7568,0.76896,1.0
+CodexLF (LFE) + Wrench,5,5,0.7368,0.7464,0.75,0.7864,0.7348,0.75088,1.0
+CodexLF (DE) + Wrench,5,5,0.77,0.7516,0.7568,0.7576,0.7668,0.76056,1.0
+,,,,,,,,,
+SMS (F1),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,73,0,0.6783,0.7717,0.7559,0.75,0.0571,0.6026,0.4052
+CodexLF (GP) + Wrench,73,8,0.72,0.5417,0.75,0.7087,0.4727,0.63862,1.0
+CodexLF (MD) + Wrench,73,8,0.619,0.4045,0.6721,0.5763,0.42,0.53838,1.0
+CodexLF (HH) + Wrench,73,9,0.6316,0.4762,0.5816,0.5937,0.4821,0.55304,1.0
+CodexLF (LFE) + Wrench,73,8,0.4045,0.4647,0.4726,0.6102,0.0294,0.39628,1.0
+CodexLF (DE) + Wrench,73,8,0.6917,0.4176,0.7463,0.7218,0.5088,0.61724,1.0
+,,,,,,,,,
+YouTube (Acc.),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,10,0,0.808,0.732,0.808,0.828,0.788,0.7928,0.8932
+CodexLF (GP) + Wrench,10,9,0.832,0.74,0.788,0.82,0.756,0.7872,1.0
+CodexLF (MD) + Wrench,10,9,0.82,0.732,0.756,0.784,0.716,0.7616,1.0
+CodexLF (HH) + Wrench,10,8,0.808,0.756,0.808,0.816,0.772,0.792,1.0
+CodexLF (LFE) + Wrench,10,6,0.776,0.756,0.78,0.796,0.78,0.7776,1.0
+CodexLF (DE) + Wrench,10,8,0.8,0.756,0.8,0.78,0.788,0.7848,1.0
+,,,,,,,,,
+Spouse (F1),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,9,0,0.2196,0.1792,0.1811,0.1656,0.268,0.2027,0.2577
+CodexLF (GP) + Wrench,9,8,0.1573,0.2979,0.3027,0.3008,0.155,0.24274,1.0
+CodexLF (MD) + Wrench,9,9,0.101,0.3084,0.3009,0.3142,0.1948,0.24386,1.0
+CodexLF (HH) + Wrench,9,8,0.0575,0.2125,0.2184,0.2985,0.1039,0.17816,1.0
+CodexLF (LFE) + Wrench,9,5,0.1471,0.1518,0.1535,0.1476,0.0925,0.1385,1.0
+CodexLF (DE) + Wrench,9,8,0.1918,0.301,0.3,0.3081,0.1643,0.25304,1.0
+,,,,,,,,,
+Yelp (Acc.),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,8,0,0.7216,0.6492,0.6942,0.8071,0.7366,0.72174,0.8278
+CodexLF (GP) + Wrench,8,11,0.75,0.6705,0.7039,0.8011,0.7303,0.73116,1.0
+CodexLF (MD) + Wrench,8,7,0.7342,0.6597,0.6934,0.8153,0.7534,0.7312,1.0
+CodexLF (HH) + Wrench,8,5,0.6797,0.6187,0.6608,0.8037,0.7026,0.6931,1.0
+CodexLF (LFE) + Wrench,8,5,0.6563,0.6639,0.7061,0.8076,0.7113,0.70904,1.0
+CodexLF (DE) + Wrench,8,6,0.7239,0.6561,0.7047,0.8211,0.7476,0.73068,1.0
+,,,,,,,,,
+AGnews (Acc.),# of WrenchLFs,# of CodexLFs,Snorkel + LR,WMV + LR,MV + LR,DS (Dawid-Skene) + LR,FS (FlyingSquid) + LR,Avg. Perf. of EM,Coverage of EM
+Wrench,9,0,0.8246,0.8225,0.8265,0.8285,0.8172,0.82386,0.6908
+CodexLF (GP) + Wrench,9,8,0.8063,0.8228,0.8254,0.7505,0.8168,0.80436,1.0
+CodexLF (MD) + Wrench,9,4,0.6836,0.7128,0.7135,0.7262,0.7186,0.71094,1.0
+CodexLF (HH) + Wrench,9,4,0.8131,0.8109,0.8123,0.7661,0.8063,0.80174,1.0
+CodexLF (LFE) + Wrench,9,8,0.784,0.7974,0.7953,0.7943,0.7901,0.79222,1.0
+CodexLF (DE) + Wrench,9,5,0.7107,0.7262,0.7248,0.7119,0.7372,0.72216,1.0

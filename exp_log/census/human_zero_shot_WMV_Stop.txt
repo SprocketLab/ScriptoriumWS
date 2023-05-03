@@ -1,0 +1,11 @@
+2023-01-18 05:27:13 - Dataset: census
+2023-01-18 05:27:13 - using label functions written by human
+2023-01-18 05:27:13 - loading data from ../datasets/census/train.json
+2023-01-18 05:27:13 - using label functions written by human
+2023-01-18 05:27:13 - loading data from ../datasets/census/valid.json
+2023-01-18 05:27:14 - using label functions written by human
+2023-01-18 05:27:14 - loading data from ../datasets/census/test.json
+2023-01-18 05:27:15 - weighted majority voter test acc: 0.7719
+2023-01-18 05:27:15 - weighted majority voter test f1: 0.0999
+2023-01-18 05:27:15 - label model test cov: 0.9913
+2023-01-18 05:27:15 - Not going to run end model
